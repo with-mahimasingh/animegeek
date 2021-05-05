@@ -1,6 +1,11 @@
 # animegeek
 
-A new Flutter project.
+A new beginner level Flutter project.
+
+Working:
+
+<img src="https://user-images.githubusercontent.com/58841158/117114949-14cda880-adaa-11eb-9931-2f24749d2fc2.gif" width="25%" height="25%">
+
 
 ## Getting Started
 
